@@ -121,17 +121,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </p>
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=akashvicky23&show_icons=true&locale=en&layout=compact"
-alt="akashvicky23" />
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=akashvicky23&show_icons=true&locale=en"
-alt="akashvicky23" />
-</p>
 
 <p>
 <img align="center"
